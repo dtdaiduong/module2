@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CurrencyConverter" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.duong" />
+    <module name="codegymmd2" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
