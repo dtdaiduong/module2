@@ -6,7 +6,7 @@
     <module name="codegymmd2" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.duong.IntroductionToJava.*" />
+        <option name="PATTERN" value="com.duong.introductionToJava.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
