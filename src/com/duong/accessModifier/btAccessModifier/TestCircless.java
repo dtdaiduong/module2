@@ -1,4 +1,4 @@
-package com.duong.accessModifier.BTAccessModifier;
+package com.duong.accessModifier.btAccessModifier;
 
 public class TestCircless {
     public static void main(String[] args) {

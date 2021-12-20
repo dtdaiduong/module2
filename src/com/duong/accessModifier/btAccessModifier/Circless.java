@@ -1,4 +1,4 @@
-package com.duong.accessModifier.BTAccessModifier;
+package com.duong.accessModifier.btAccessModifier;
 
 public class Circless {
     private double radiuss = 1.0;

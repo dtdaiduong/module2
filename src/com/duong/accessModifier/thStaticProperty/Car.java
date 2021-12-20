@@ -1,4 +1,4 @@
-package com.duong.accessModifier.THStaticProperty;
+package com.duong.accessModifier.thStaticProperty;
 
 public class Car {
     private String name;

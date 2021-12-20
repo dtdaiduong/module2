@@ -3,6 +3,9 @@ package com.duong.inheritanc.demo;
 public class Animal {
     private String name;
     private String place;
+    void method(){
+
+    }
 
     public Animal() {
     }
@@ -27,8 +30,8 @@ public class Animal {
         this.name = name;
     }
 
-    public void eat() {
-        System.out.println("mam mam");
+    public void eat(String voice) {
+        System.out.println(voice);
     }
 
     public void place(){

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class insert {
     public static void main(String[] args) {
-        int arr[] = new int[10];
+            int arr[] = new int[10];
         arr[0] = 3;
         arr[1] = 5;
         arr[2] = 7;

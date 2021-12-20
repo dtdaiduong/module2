@@ -1,4 +1,4 @@
-package com.duong.accessModifier.TH_StaticMethod;
+package com.duong.accessModifier.btStaticMethod;
 
 public class StaticMethod {
     private int rollno;

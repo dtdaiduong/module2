@@ -1,4 +1,4 @@
-package com.duong.accessModifier.THStaticProperty;
+package com.duong.accessModifier.thStaticProperty;
 
 public class TestStaticProperty {
     public static void main(String[] args) {

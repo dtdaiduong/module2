@@ -1,4 +1,4 @@
-package com.duong.accessModifier.BTJustWrite;
+package com.duong.accessModifier.btJustWrite;
 
 public class TestStudent {
     public static void main(String[] args) {

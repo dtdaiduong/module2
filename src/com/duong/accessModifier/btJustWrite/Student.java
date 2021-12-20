@@ -1,4 +1,4 @@
-package com.duong.accessModifier.BTJustWrite;
+package com.duong.accessModifier.btJustWrite;
 
 public class Student {
     private String names = "John";

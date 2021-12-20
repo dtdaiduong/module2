@@ -7,7 +7,8 @@ public class Cat extends Animal {
     }
 
     @Override
-    public void eat() {
-        System.out.println("an ca");
+    public void eat(String voicecat) {
+        System.out.println(voicecat);
     }
+
 }

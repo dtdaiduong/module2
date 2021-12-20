@@ -8,13 +8,15 @@ public class mainAnimal {
 //        System.out.println(dog.getName());
 //        dog.eat();
 //        dog.bark();
-//        Cat cat = new Cat();
+        Cat cat = new Cat();
+        Animal animal = new Animal();
+        animal.eat("mam mam");
 //        System.out.println(cat.getName());
-//        cat.eat();
+        cat.eat("meo meo");
 //        cat.mew();
-        Crocodiles crocodiles = new Crocodiles();
-        System.out.println("crocodilies");
-        crocodiles.place();
+//        Crocodiles crocodiles = new Crocodiles();
+//        System.out.println("crocodilies");
+//        crocodiles.place();
 
     }
 

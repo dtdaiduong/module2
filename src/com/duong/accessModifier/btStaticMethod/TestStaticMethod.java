@@ -1,4 +1,4 @@
-package com.duong.accessModifier.TH_StaticMethod;
+package com.duong.accessModifier.btStaticMethod;
 
 public class TestStaticMethod {
     public static void main(String[] args) {
